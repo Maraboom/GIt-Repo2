@@ -1,4 +1,5 @@
 print("Hello world!");
-print hello
-hello my dear friend
-continuo
+print hello;
+hello my dear friend;
+continuo;
+print("Hello world!;");
